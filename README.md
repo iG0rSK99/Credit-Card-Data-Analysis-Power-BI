@@ -28,10 +28,12 @@ It provides actionable insights into **revenue growth, card performance, custome
 📷 Dashboards
 
 ### 1. Credit Card Transaction Report
-![Transaction Report](images/Transaction_Report.png)
+<img width="1231" height="691" alt="Screenshot 2025-09-03 172310" src="https://github.com/user-attachments/assets/de8d40ab-8972-419f-8181-2a34bed44c8e" />
+
 
 ### 2. Credit Card Customer Report
-![Customer Report](images/Customer_Report.png)
+<img width="1233" height="697" alt="Screenshot 2025-09-03 172328" src="https://github.com/user-attachments/assets/ffc15d54-1d89-45b0-a967-c3adfadf8642" />
+
 
 ---
 
@@ -70,8 +72,4 @@ It provides actionable insights into **revenue growth, card performance, custome
 - **SQL (MySQL)** → Data cleaning, joining, and aggregation  
 - **Power BI** → Interactive dashboards and visualization  
 - **Excel/CSV** → Source datasets  
-
----
-
-## 📁 Repository Structure
 
